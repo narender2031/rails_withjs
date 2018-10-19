@@ -2,6 +2,11 @@
   "name": "rails_withjs",
   "private": true,
   "dependencies": {
-    "jquery": "^3.3.1"
+    "@rails/webpacker": "3.5",
+    "jquery": "^3.3.1",
+    "sweetalert2": "^7.28.7"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
   }
 }
