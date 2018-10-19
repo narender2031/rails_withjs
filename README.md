@@ -28,21 +28,9 @@ Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.
 
 Getting Started
 ---------------
-
-Documentation and Support
--------------------------
-
-Issues
--------------
-
-Similar Projects
-----------------
-
-Contributing
-------------
-
-Credits
--------
-
-License
--------
+ 1. clone the project 
+ 2. create the db and migrate 
+ 3. make seed command run 
+ 4. install node less the v8 version 
+ 5 . install yarn and run command yarn 
+ 
